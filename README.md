@@ -26,13 +26,7 @@ Cashflow Minimizer is a dynamic financial management tool designed to streamline
 1. The results will be displayed in a user-friendly format, showing the minimized transactions required to settle all debts.
 
 
-## Demo
-![Updated Demo vide for CFM](https://github.com/skalidindi53/CashFlowMinimizer/assets/94879708/c035f09a-607b-4571-897b-7c190c9a022e)
-
 
 ## Installation
 Simply clone this repository and run the main.py file in your code editior.
     
-## Code
-![image](https://github.com/skalidindi53/CashFlowMinimizer/assets/94879708/19b8518f-c10c-4aaf-baff-22a645d51c47)
-
